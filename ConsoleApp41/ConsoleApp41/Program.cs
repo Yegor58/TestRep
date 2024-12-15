@@ -11,6 +11,7 @@ namespace ConsoleApp41
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world");
+            Console.WriteLine("This is a C# console application.");
         }
     }
 }
